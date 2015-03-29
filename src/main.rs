@@ -25,6 +25,8 @@ use lib_word_count as word_count;
 use std::old_io as io;
 use std::old_io::Reader;
 
+/// This is the entry point for the program.
+///
 #[stable]
 fn main() {
 
