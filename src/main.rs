@@ -25,6 +25,7 @@ use lib_word_count as word_count;
 use std::old_io as io;
 use std::old_io::Reader;
 
+#[stable]
 fn main() {
 
     let mut word_index = Vec::new();
