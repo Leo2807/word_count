@@ -1,3 +1,21 @@
+//!
+//! Main executable.
+//!
+//! This file compiles to an executable.
+//!
+//! # Panics
+//!
+//! Panics when it can't read from stdin.
+//!
+//! # Examples
+//!
+//! ```sh
+//! $ echo 'I like cookies. Mmm... Cookies.' | word_count
+//! 'cookies':	  2
+//! 'mmm':		  1
+//! 'like':		  1
+//! 'i':		  1
+//! ```
 
 #![feature(old_io, collections)]
 
