@@ -1,4 +1,4 @@
 [package]
 name = "word_count"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Leander Lismond <Leander@Lismond.be>"]
