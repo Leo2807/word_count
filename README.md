@@ -20,14 +20,14 @@ $ echo 'I like cookies. Mmm... Cookies.' | word_count
 Library:
 
 ```rust
-extern crate word_count;
+extern crate lib_word_count;
 
 fn main() {
 
     let mut word_index = Vec::new();
     let input = "I like cookies. Mmm... Cookies.";
 
-    word_count::count_words(input, &mut word_index);
+    lib_word_count::count_words(input, &mut word_index);
 
     assert_eq!(word_index.len(), 4);
 
