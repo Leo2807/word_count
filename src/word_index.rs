@@ -18,5 +18,5 @@ pub fn add_word(word: String, index: &mut Vec<IndexedWord>) {
         appeared: 1
     };
 
-    index.push(new_word);
+    index.insert(0, new_word);
 }
