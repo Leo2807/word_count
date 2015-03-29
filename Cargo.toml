@@ -2,3 +2,11 @@
 name = "word_count"
 version = "0.0.2"
 authors = ["Leander Lismond <Leander@Lismond.be>"]
+
+description = "Count the words in a string."
+readme = "README.md"
+
+license = "MIT"
+
+[lib]
+name = "lib_word_count"

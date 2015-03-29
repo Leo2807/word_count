@@ -1,7 +1,8 @@
 
 #![feature(old_io, collections)]
 
-extern crate word_count;
+extern crate lib_word_count;
+use lib_word_count as word_count;
 
 use std::old_io as io;
 use std::old_io::Reader;
