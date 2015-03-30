@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["pivot_sort","This module contains the implementation of a pivot-based sorting algorithm."],["word_index","This module is used to index words and does the heavy lifting of our program."]],"fn":[["count_words","Count the appearances of each word in a string."]]});

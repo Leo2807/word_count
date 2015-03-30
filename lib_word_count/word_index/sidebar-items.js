@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["IndexedWord","A counted word."]],"fn":[["add_word","Add a word to a given index."]]});
