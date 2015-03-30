@@ -11,10 +11,10 @@ Executable:
 
 ```sh
 $ echo 'I like cookies. Mmm... Cookies.' | word_count
-'cookies':	2
-'mmm':		  1
-'like':		  1
-'i':		    1
+'cookies':  2
+'mmm':      1
+'like':     1
+'i':        1
 ```
 
 Library:
