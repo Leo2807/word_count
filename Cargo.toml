@@ -1,6 +1,6 @@
 [package]
 name = "word_count"
-version = "0.0.2"
+version = "0.1.0"
 authors = ["Leander Lismond <Leander@Lismond.be>"]
 
 description = "Count the words in a string."
