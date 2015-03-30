@@ -1,6 +1,6 @@
 % Word count
 
-# word_count
+# word_count [![Build Status](https://travis-ci.org/Leo2807/word_count.svg?branch=master)](https://travis-ci.org/Leo2807/word_count)
 
 This is a program/library to count the words in a string. Use it to analyze
 texts of your favorite author.
