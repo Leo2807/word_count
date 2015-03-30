@@ -5,6 +5,8 @@ authors = ["Leander Lismond <Leander@Lismond.be>"]
 
 description = "Count the words in a string."
 readme = "README.md"
+homepage = "https://github.com/Leo2807/word_count/"
+repository = "https://github.com/Leo2807/word_count/"
 
 license = "MIT"
 
